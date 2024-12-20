@@ -31,7 +31,6 @@ body {
 .task-list-container h1{
     margin: 5px;
     color: #ddd;
-    background: rgba(0, 0, 0, 0.7); /* Couleur violette translucide */
     border-radius: 8px;
     text-align: center;
     font-size: 20px;;
